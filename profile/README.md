@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.prometheusalts.com/">
-    <img src="assets/custom/logo/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
+    <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
   </a>
 </p>
 
@@ -13,10 +13,10 @@
   <br>
   <br>
   <a href="https://app.prometheusalts.com">
-    <img src="assets/custom/button/btn_webapp.png" alt="Web App">
+    <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/button/btn_webapp.png" alt="Web App">
   </a>
   <a href="https://apps.apple.com/us/app/prometheus-invest-in-alts/id1555304910">
-    <img src="sssets/custom/button/btn_appstore.png" alt="App Store">
+    <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/button/btn_appstore.png" alt="App Store">
   </a>
 </p>
 
@@ -29,7 +29,7 @@
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="assets/custom/icon/circle.svg" alt="Circle Icon">
+        <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/icon/circle.svg" alt="Circle Icon">
         <br>
         <br>
         <a href="#">Create a profile</a> on our app or website to get started
@@ -51,7 +51,7 @@
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="assets/custom/icon/bar.svg" alt="Bar Chart Icon">
+        <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/icon/bar.svg" alt="Bar Chart Icon">
         <br>
         <br>
         <a href="#">Invest in</a> professionally managed alternative funds*
@@ -100,7 +100,7 @@ Prometheus helps emerging and established managers connect with the right capita
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="assets/custom/icon/trophy.png" width="64px" height="64px" alt="Trophy Icon">
+        <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/icon/trophy.png" width="64px" height="64px" alt="Trophy Icon">
         <br>
         <br>
         <a href="#">Win and retain clients</a> with compelling content.
@@ -111,7 +111,7 @@ Prometheus helps emerging and established managers connect with the right capita
     <td valign="top" width="34%">
       <p align="center">
         <br>
-        <img src="assets/custom/icon/student.png" width="64px" height="64px" alt="Student Icon">
+        <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/icon/student.png" width="64px" height="64px" alt="Student Icon">
         <br>
         <br>
         <a href="#">Gain a competitive edge</a> with ideas from  professional users.
@@ -122,7 +122,7 @@ Prometheus helps emerging and established managers connect with the right capita
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="assets/custom/icon/barbell.png" width="48px" height="64px" alt="Barbell Icon">
+        <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/icon/barbell.png" width="48px" height="64px" alt="Barbell Icon">
         <br>
         <br>
         <a href="#">Strengthen client portfolios</a> by diversifying into alternative assets.
@@ -138,7 +138,7 @@ Prometheus helps emerging and established managers connect with the right capita
 <h3 align="center">Professionals are creating on Prometheus</h3>
 <br>
 
-![Prometheus professionals](assets/custom/people/group.png)
+![Prometheus professionals](https://github.com/pro-alts/.github/blob/master/profile/assets/custom/people/group.png)
 
 <hr>
 
