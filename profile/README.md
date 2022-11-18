@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.prometheusalts.com/">
-    <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
+    <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/logo/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
   </a>
 </p>
 
@@ -40,7 +40,7 @@
     <td valign="top" width="34%">
       <p align="center">
         <br>
-        <img src="assets/custom/icon/bulb.svg" alt="Bulb Icon">
+        <img src="https://github.com/pro-alts/.github/blob/master/profile/assets/custom/icon/bulb.svg" alt="Bulb Icon">
         <br>
         <br>
         <a href="#">Discover ideas</a> from professional investors in your newsfeed
